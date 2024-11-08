@@ -4,7 +4,7 @@ local work.1 = workspace
 local 1.c = "O. Ome"
 local 1.g = "G. One"
 
-	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Hd8Dev/hdhub-beta/refs/heads/main/main.lua")))()
+	
 
 if Player ~= Player.LocalPlayer then
 	print("Error... <404>")
