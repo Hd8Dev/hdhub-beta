@@ -42,7 +42,7 @@ Were not using ads you just need to click a button to generate key / we dont use
 // EVERYTHING IS COPYRIGHTED!
 		--]]
 
-Tab:AddParagraph("Paragraph","Paragraph Content")
+HomeTab:AddParagraph("t","menu set")
 
 
 
@@ -59,7 +59,7 @@ print("PremiumKeyY")
 
 
 
-Tab:AddTextbox({
+HomeTab:AddTextbox({
 	Name = "Put in key | Key System",
 	Default = "nil",
 	TextDisappear = true,
@@ -84,14 +84,15 @@ Tab:AddTextbox({
 			--]]
 
 
-local Joho = tezt
-	
+HomeTab:AddParagraph("Script Owner","JoLo Development")
+	HomeTab:AddParagraph("JoLo Development Owner","hd8")
+	HomeTab:AddParagraph("Key Status","Error <404>")
 
 
 
 
 
-
+OrionLib:Init()
 	
 	
 
